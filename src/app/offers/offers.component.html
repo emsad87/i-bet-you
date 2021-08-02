@@ -1,0 +1,62 @@
+<h2>Offers:</h2>
+<div class="offers">
+  <div *ngFor="let offer of offers">
+    <div *ngFor="let locaction of offer['locations']">
+      {{ locaction.name }}
+      <div *ngFor="let league of locaction['leagues']">
+        <mat-card>
+          {{ league.name }}
+          <mat-card *ngFor="let events of league['eventDateGroups']">
+            {{ events.date }}
+
+            <table>
+              <tr>
+                <th>Home</th>
+                <th>Guest</th>
+                <th>1</th>
+                <th>X</th>
+                <th>2</th>
+              </tr>
+
+              <tr *ngFor="let event of events['events']">
+                <td *ngFor="let participant of event['fixture'].participants">
+                  {{ participant.name }}
+                </td>
+                <ng-container *ngFor="let market of event['markets']">
+                  <ng-container *ngIf="market.marketId === '1'">
+                    <td
+                      *ngFor="let picks of market.picks"
+                      (click)="addToTicket(picks.odds)"
+                    >
+                      {{ picks.odds }}
+                    </td>
+                  </ng-container>
+                </ng-container>
+              </tr>
+            </table>
+
+            <!-- <mat-card *ngFor="let event of events['events']">
+              <div *ngFor="let participant of event['fixture'].participants">
+                {{ participant.name }}
+              </div>
+              <div *ngFor="let market of event['markets']">
+                <div *ngIf="market.marketId === '1'">
+                  <div *ngFor="let picks of market.picks">
+                    <div>{{ picks.name }}</div>
+                    {{ picks.odds }}
+                  </div>
+                </div>
+              </div>
+            </mat-card> -->
+          </mat-card>
+        </mat-card>
+      </div>
+    </div>
+
+    <!-- <span
+      [class.selected]="offer === selectedOffer"
+      (click)="onSelect(offer)"
+      >{{ offer.name }}</span
+    > -->
+  </div>
+</div>

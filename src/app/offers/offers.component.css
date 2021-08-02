@@ -1,0 +1,40 @@
+.offers {
+  width: 70%;
+  display: inline-block;
+}
+
+.selected {
+  background-color: greenyellow;
+}
+
+.ticket-card {
+  width: fit-content;
+  margin: 1rem;
+  padding: 1rem;
+  color: white;
+  background-color: grey;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+}
+
+mat-card {
+  margin: 1rem;
+  border: 1px solid black;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

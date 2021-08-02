@@ -1,0 +1,27 @@
+mat-card {
+  border: 1px solid black;
+}
+
+.ticket-card {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  width: 250px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

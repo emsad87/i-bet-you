@@ -1,0 +1,16 @@
+<mat-card class="ticket-card">
+  <h2>Ticket:</h2>
+  <table>
+    <tr>
+      <th>Event</th>
+      <th>Odd</th>
+    </tr>
+    <tr *ngFor="let item of items">
+      <td>{{ item.name }}</td>
+      <td>{{ item.name }}</td>
+    </tr>
+  </table>
+  <label for="bet-amount">Bet Amount</label>
+  <input id="bet-amount" type="text" />
+  <h3>Total Win:</h3>
+</mat-card>

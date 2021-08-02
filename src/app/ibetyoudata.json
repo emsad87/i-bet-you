@@ -1,0 +1,3946 @@
+{
+  "markets": [
+    {
+      "marketId": "1",
+      "bl": 0,
+      "name": "1x2a",
+      "picks": [
+        { "id": "1", "name": "1", "order": 1, "status": 0 },
+        { "id": "x", "name": "x", "order": 2, "status": 0 },
+        { "id": "2", "name": "2", "order": 3, "status": 0 }
+      ],
+      "order": 1,
+      "isValid": false
+    },
+    {
+      "marketId": "10",
+      "bl": 0,
+      "name": "Double chance",
+      "picks": [
+        { "id": "1x", "name": "1X", "order": 1, "status": 0 },
+        { "id": "12", "name": "12", "order": 3, "status": 0 },
+        { "id": "x2", "name": "X2", "order": 2, "status": 0 }
+      ],
+      "order": 3,
+      "isValid": false
+    },
+    {
+      "marketId": "18",
+      "bl": 0,
+      "name": "Total",
+      "picks": [
+        { "id": "over", "name": "Over", "order": 2, "status": 0 },
+        { "id": "under", "name": "Under", "order": 1, "status": 0 }
+      ],
+      "order": 5,
+      "isValid": false
+    },
+    {
+      "marketId": "29",
+      "bl": 0,
+      "name": "Both teams to score",
+      "picks": [
+        { "id": "yes", "name": "Yes", "order": 1, "status": 0 },
+        { "id": "no", "name": "No", "order": 2, "status": 0 }
+      ],
+      "order": 6,
+      "isValid": false
+    },
+    {
+      "marketId": "12",
+      "bl": 0,
+      "name": "Team 1 no bet",
+      "picks": [
+        { "id": "draw", "name": "X", "order": 1, "status": 0 },
+        { "id": "away", "name": "2", "order": 2, "status": 0 }
+      ],
+      "order": 8,
+      "isValid": false
+    },
+    {
+      "marketId": "11",
+      "bl": 0,
+      "name": "Draw no bet",
+      "picks": [
+        { "id": "2", "name": "2", "order": 2, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 }
+      ],
+      "order": 9,
+      "isValid": false
+    },
+    {
+      "marketId": "13",
+      "bl": 0,
+      "name": "Team 2 no bet",
+      "picks": [
+        { "id": "home", "name": "1", "order": 1, "status": 0 },
+        { "id": "draw", "name": "X", "order": 2, "status": 0 }
+      ],
+      "order": 10,
+      "isValid": false
+    },
+    {
+      "marketId": "8",
+      "bl": 0,
+      "name": "Stated goal",
+      "picks": [
+        { "id": "2", "name": "2", "order": 3, "status": 0 },
+        { "id": "none", "name": "None", "order": 2, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 }
+      ],
+      "order": 19,
+      "isValid": false
+    },
+    {
+      "marketId": "60",
+      "bl": 0,
+      "name": "1st half - 1x2",
+      "picks": [
+        { "id": "x", "name": "x", "order": 2, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 },
+        { "id": "2", "name": "2", "order": 3, "status": 0 }
+      ],
+      "order": 20,
+      "isValid": false
+    },
+    {
+      "marketId": "63",
+      "bl": 0,
+      "name": "1st half - double chance",
+      "picks": [
+        { "id": "12", "name": "12", "order": 3, "status": 0 },
+        { "id": "x2", "name": "X2", "order": 2, "status": 0 },
+        { "id": "1x", "name": "1X", "order": 1, "status": 0 }
+      ],
+      "order": 21,
+      "isValid": false
+    },
+    {
+      "marketId": "62",
+      "bl": 0,
+      "name": "1st half - Stated goal",
+      "picks": [
+        { "id": "none", "name": "None", "order": 2, "status": 0 },
+        { "id": "2", "name": "2", "order": 3, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 }
+      ],
+      "order": 22,
+      "isValid": false
+    },
+    {
+      "marketId": "16",
+      "bl": 0,
+      "name": "Handicap",
+      "picks": [
+        { "id": "2", "name": "2", "order": 2, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 }
+      ],
+      "order": 48,
+      "isValid": false
+    },
+    {
+      "marketId": "14",
+      "bl": 0,
+      "name": "Handicap 1x2",
+      "picks": [
+        { "id": "x", "name": "x", "order": 2, "status": 0 },
+        { "id": "2", "name": "2", "order": 3, "status": 0 },
+        { "id": "1", "name": "1", "order": 1, "status": 0 }
+      ],
+      "order": 50,
+      "isValid": false
+    },
+    {
+      "marketId": "19",
+      "bl": 0,
+      "name": "Team 1 total",
+      "picks": [
+        { "id": "under", "name": "Under", "order": 1, "status": 0 },
+        { "id": "over", "name": "Over", "order": 2, "status": 0 }
+      ],
+      "order": 57,
+      "isValid": false
+    },
+    {
+      "marketId": "20",
+      "bl": 0,
+      "name": "Team 2 total",
+      "picks": [
+        { "id": "over", "name": "Over", "order": 2, "status": 0 },
+        { "id": "under", "name": "Under", "order": 1, "status": 0 }
+      ],
+      "order": 58,
+      "isValid": false
+    },
+    {
+      "marketId": "33",
+      "bl": 0,
+      "name": "Team 1 win to nil",
+      "picks": [
+        { "id": "yes", "name": "Yes", "order": 1, "status": 0 },
+        { "id": "no", "name": "No", "order": 2, "status": 0 }
+      ],
+      "order": 88,
+      "isValid": false
+    }
+  ],
+  "locations": [
+    {
+      "id": "243",
+      "name": "England",
+      "leagues": [
+        {
+          "id": "67",
+          "name": "Premier League",
+          "iconId": "premier-league",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-13T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "C66558F0F5E098B20547916DB43BC2BE",
+                  "linkedId": "0670EE8242766DFFE863B95FE8BEA3E6",
+                  "fixture": {
+                    "startDate": "2021-08-13T19:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1001", "name": "Brentford", "position": "1" },
+                      { "id": "3", "name": "Arsenal", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.72, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 2.05, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.8, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.26, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.25, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 3.9, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.75, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 1.89, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 801,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751052" } }
+                }
+              ]
+            },
+            {
+              "date": "2021-08-14T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "010C02E6A99DC0AB312700D7CC13A364",
+                  "linkedId": "7B86E9D10CE58863D180D52899D9FAA8",
+                  "fixture": {
+                    "startDate": "2021-08-14T11:30:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "22", "name": "Man.Utd.", "position": "1" },
+                      { "id": "6", "name": "Leeds United", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "3.5", "odds": 2.19, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "3.5", "odds": 1.63, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.15, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.18, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.31, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.52, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 4.7, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 5.6, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 801,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751062" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "DB948EA648A6CA6E06916919471F8DCF",
+                  "linkedId": "DB948EA648A6CA6E06916919471F8DCF",
+                  "fixture": {
+                    "startDate": "2021-08-14T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "978", "name": "Burnley", "position": "1" },
+                      { "id": "1002", "name": "Brighton", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.35, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.55, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.55, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.35, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.31, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 3.35, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.33, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 795,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751054" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "BE7EEA546362A7621A9601C2E19B7C04",
+                  "linkedId": "BE7EEA546362A7621A9601C2E19B7C04",
+                  "fixture": {
+                    "startDate": "2021-08-14T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "13", "name": "Leicester", "position": "1" },
+                      { "id": "998", "name": "Wolverhampton", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.95, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.8, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.15, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.24, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.1, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.63, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.9, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 5.6, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 798,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751060" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "014B49199CC7F01A1386769D43EA4BB6",
+                  "linkedId": "014B49199CC7F01A1386769D43EA4BB6",
+                  "fixture": {
+                    "startDate": "2021-08-14T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "995", "name": "Watford", "position": "1" },
+                      { "id": "18", "name": "Aston Villa", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.88, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.86, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.61, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.3, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.32, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 3.3, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.4, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.2, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 797,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751070" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "2A72A01B9DB0740B53BA544DC9BF4B3F",
+                  "linkedId": "2A72A01B9DB0740B53BA544DC9BF4B3F",
+                  "fixture": {
+                    "startDate": "2021-08-14T14:00:00Z",
+                    "endDate": "2022-05-22T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "12", "name": "Everton", "position": "1" },
+                      { "id": "15", "name": "Southampton", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.79, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.96, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.24, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.26, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.81, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.88, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.75, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.95, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 799,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751058" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "631EF692EA97A76271B9D612EECAE191",
+                  "linkedId": "12EF6F1799FD2B46A13E0AAE2A280439",
+                  "fixture": {
+                    "startDate": "2021-08-14T16:30:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "986", "name": "Norwich City", "position": "1" },
+                      { "id": "19", "name": "Liverpool", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "3.5", "odds": 2.01, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "3.5", "odds": 1.75, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 3.0, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.12, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.08, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 8.6, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 6.0, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 1.31, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 797,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751066" } }
+                }
+              ]
+            },
+            {
+              "date": "2021-08-15T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "BBE326C35E3D1DFC57E10CBF8EF06B2A",
+                  "linkedId": "B301EAD3CFFB88156F700D0735B57D2A",
+                  "fixture": {
+                    "startDate": "2021-08-15T13:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "8", "name": "Newcastle", "position": "1" },
+                      { "id": "11", "name": "West Ham", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "67",
+                      "name": "Premier League",
+                      "order": 1,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "iconId": "premier-league",
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.89, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.85, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.62, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.29, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.32, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 3.3, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.5, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.17, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 795,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751064" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "75E08DB52398403D6B2E1F8744199FB3",
+                  "linkedId": "8063B1098B3528C676A6BFDBEEE2DC7E",
+                  "fixture": {
+                    "startDate": "2021-08-15T15:30:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "21", "name": "Tottenham", "position": "1" },
+                      { "id": "984", "name": "Man.City", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.68, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 2.1, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 2.16, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.21, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.16, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 5.4, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 4.3, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 1.6, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 803,
+                  "visualizationInfo": { "betRadar": { "eventId": "27751068" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 1
+        },
+        {
+          "id": "30048",
+          "name": "England Championship",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-07T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "7825731505469876CA4F0DF55A5DBD01",
+                  "linkedId": "7825731505469876CA4F0DF55A5DBD01",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "5", "name": "Blackburn Rovers", "position": "1" },
+                      { "id": "1044", "name": "Swansea City", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.26, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.61, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.41, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.41, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.71, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.34, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.2, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.2, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 785,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866942" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "93D201EFE312AEE9952B0E755FCF317F",
+                  "linkedId": "93D201EFE312AEE9952B0E755FCF317F",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1015", "name": "QPR", "position": "1" },
+                      { "id": "985", "name": "Millwall", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.19, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.65, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.41, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.41, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.73, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.3, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.25, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.2, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 768,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866960" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "9A1786D5132FBC60ED37019C7C0BCBCC",
+                  "linkedId": "9A1786D5132FBC60ED37019C7C0BCBCC",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "endDate": "2022-05-29T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1034", "name": "Luton T.", "position": "1" },
+                      { "id": "1013", "name": "Peterborough Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.01, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.77, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.38, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.79, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.2, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.3, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.4, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 788,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866956" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "F5EF09BB000285D18F027283E8342C35",
+                  "linkedId": "F5EF09BB000285D18F027283E8342C35",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "endDate": "2022-05-29T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "16", "name": "Derby County", "position": "1" },
+                      { "id": "1009", "name": "Huddersfield", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.2, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.65, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.57, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.44, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.49, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.85, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.65, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 752,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866952" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "517211AD20861315CC7655DCA8E7C274",
+                  "linkedId": "517211AD20861315CC7655DCA8E7C274",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "endDate": "2022-05-29T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1017", "name": "Stoke City", "position": "1" },
+                      { "id": "1016", "name": "Reading", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.41, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.54, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.42, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.43, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.68, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.4, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.15, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 776,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866964" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "E6623D3C42723BADA1F86DF40B4271C5",
+                  "linkedId": "E6623D3C42723BADA1F86DF40B4271C5",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "endDate": "2022-05-29T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "989", "name": "Preston North End", "position": "1" },
+                      { "id": "1030", "name": "Hull City", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.98, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.79, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.38, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.39, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.81, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.17, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.35, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.4, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 784,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866958" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "3FCFB64BE236EC7387460EF8C3B0D22F",
+                  "linkedId": "3FCFB64BE236EC7387460EF8C3B0D22F",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1006", "name": "Cardiff", "position": "1" },
+                      { "id": "975", "name": "Barnsley", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.32, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.58, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.41, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.42, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.71, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.34, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.15, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.2, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 749,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866948" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "393B505E68C0C1478CC7D17A1181E6C8",
+                  "linkedId": "FF9A609AB37C77982D9EA49AA0A8158B",
+                  "fixture": {
+                    "startDate": "2021-08-07T19:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "991", "name": "Sheffield  Utd.", "position": "1" },
+                      { "id": "52279096", "name": "Birmingham", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.23, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.63, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.24, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.36, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.19, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.79, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.5, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 4.8, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 793,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866962" } }
+                }
+              ]
+            },
+            {
+              "date": "2021-08-08T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "BFD7044FD29F1E6A22DC0AD3E19A1FF3",
+                  "linkedId": "AC9F394C0466F4E2F9BD0ECEC77D44D4",
+                  "fixture": {
+                    "startDate": "2021-08-08T12:30:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "17", "name": "Fulham", "position": "1" },
+                      { "id": "52292238", "name": "Middlesbrough", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.04, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.74, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.3, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.97, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.97, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.4, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.95, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 761,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866954" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "1ACA0B5586246B21F57574CD43BFE100",
+                  "linkedId": "9A5B1335FECB67E9AC9243BDC6BCDCE5",
+                  "fixture": {
+                    "startDate": "2021-08-08T15:30:00Z",
+                    "endDate": "2022-05-29T00:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "979", "name": "Coventry City", "position": "1" },
+                      { "id": "987", "name": "Nottingham Forest", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30048",
+                      "name": "England Championship",
+                      "order": 21,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.43, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.54, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.55, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.45, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.51, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.75, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.7, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 770,
+                  "visualizationInfo": { "betRadar": { "eventId": "27866950" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 21
+        },
+        {
+          "id": "68",
+          "name": "League One",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-07T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "C5CD6BC7D96C38B7DD46B31AC3E82FFC",
+                  "linkedId": "C5CD6BC7D96C38B7DD46B31AC3E82FFC",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1022", "name": "Wycombe Wanderers", "position": "1" },
+                      { "id": "85299", "name": "Accrington Stanley", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.89, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.74, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.32, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.37, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.95, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.95, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.25, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.55, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 757,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868168" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "5C8E631DAE5C8AAF33645DBCCA34E648",
+                  "linkedId": "5C8E631DAE5C8AAF33645DBCCA34E648",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "9", "name": "Bolton Wanderers", "position": "1" },
+                      { "id": "997", "name": "Milton Keynes Dons", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.95, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.69, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.45, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.68, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.32, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.85, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 770,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868146" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "2779F16C2A8FE37FFBBB28B2D2FB0A8E",
+                  "linkedId": "2779F16C2A8FE37FFBBB28B2D2FB0A8E",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "990", "name": "Rotherham Utd.", "position": "1" },
+                      { "id": "1038", "name": "Plymouth Argyle", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.83, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.8, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.3, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.35, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.04, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.85, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.35, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.75, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 780,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868162" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "D9B2A1C52CE695B878C50D07B77A0D7C",
+                  "linkedId": "D9B2A1C52CE695B878C50D07B77A0D7C",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1042", "name": "Shrewsbury T.", "position": "1" },
+                      { "id": "85301", "name": "Burton Albion", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.14, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.57, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.44, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.43, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.65, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.4, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 2.95, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.85, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 779,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868164" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "0F609B85BB4CAF76CFDE68AE4F34199D",
+                  "linkedId": "0F609B85BB4CAF76CFDE68AE4F34199D",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "138641", "name": "Fleetwood T.", "position": "1" },
+                      { "id": "988", "name": "Portsmouth", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.14, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.57, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.66, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.43, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.43, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.95, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 2.95, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.36, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 787,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868156" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "5D865A764106BF8B58D10AB55DBB849A",
+                  "linkedId": "5D865A764106BF8B58D10AB55DBB849A",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "75062", "name": "Doncaster Rovers", "position": "1" },
+                      { "id": "173980", "name": "Wimbledon", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.9, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.73, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.35, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.87, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.03, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.15, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.35, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 777,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868154" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "ADCF655D133101B64670B007F5903E22",
+                  "linkedId": "ADCF655D133101B64670B007F5903E22",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "980", "name": "Crewe Alexandra", "position": "1" },
+                      { "id": "1025", "name": "Cheltenham T.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.01, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.65, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.32, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.95, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.95, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.2, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.6, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 786,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868152" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "34FFD28535E8CDE83239FC54B1C02BC1",
+                  "linkedId": "34FFD28535E8CDE83239FC54B1C02BC1",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "20", "name": "Ipswich T.", "position": "1" },
+                      { "id": "75769", "name": "Morecambe", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.69, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.96, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.23, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.3, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.38, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.64, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.65, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 4.5, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 788,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868160" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "2299261417C22B06CA9E3660EC7ECDB6",
+                  "linkedId": "2299261417C22B06CA9E3660EC7ECDB6",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "14", "name": "Sunderland", "position": "1" },
+                      { "id": "1020", "name": "Wigan", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.78, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.85, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.3, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.36, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.02, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.87, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.3, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.75, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 773,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868166" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "6635264599C6A7E9E8D20BBBDB9DCF67",
+                  "linkedId": "6635264599C6A7E9E8D20BBBDB9DCF67",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1005", "name": "Cambridge Utd.", "position": "1" },
+                      { "id": "1037", "name": "Oxford Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.82, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.81, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.88, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.35, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 3.4, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.2, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.02, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 766,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868148" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "126FB4638C5534D403E998F70010C6F8",
+                  "linkedId": "126FB4638C5534D403E998F70010C6F8",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "982", "name": "Gillingham", "position": "1" },
+                      { "id": "1033", "name": "Lincoln City", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.91, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.73, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.66, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.41, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.46, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.8, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.36, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 760,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868158" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "B70D48F105C9AEC5E45A273CE9463C0B",
+                  "linkedId": "DDD4E43D8854AB0F3297CC0390DB088E",
+                  "fixture": {
+                    "startDate": "2021-08-07T16:30:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "10", "name": "Charlton Athl.", "position": "1" },
+                      { "id": "992", "name": "Sheffield Wednesday", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "68",
+                      "name": "League One",
+                      "order": 40,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.04, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.63, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.5, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.42, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.59, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.5, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 2.95, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.65, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 752,
+                  "visualizationInfo": { "betRadar": { "eventId": "27868150" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 40
+        },
+        {
+          "id": "70",
+          "name": "League Two",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-07T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "0C3FA877D0E1294E19810E228C194CFC",
+                  "linkedId": "0C3FA877D0E1294E19810E228C194CFC",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1012", "name": "Oldham Athl.", "position": "1" },
+                      { "id": "138640", "name": "Newport County", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.91, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.73, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.54, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.57, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.55, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.55, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 793,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869312" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "803C54EA124EA364068C3F635DC3A682",
+                  "linkedId": "803C54EA124EA364068C3F635DC3A682",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1036", "name": "Mansfield T.", "position": "1" },
+                      { "id": "1023", "name": "Bristol Rovers", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.62, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.06, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.67, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.42, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.44, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.9, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.0, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.35, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 128,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 761,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869308" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "B3FBC43B217DADD07AEE4F5D9B01CD31",
+                  "linkedId": "B3FBC43B217DADD07AEE4F5D9B01CD31",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "340421", "name": "Salford City", "position": "1" },
+                      { "id": "1032", "name": "Leyton Orient", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 3.75, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.15, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 1.92, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.97, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.3, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.62, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.06, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 795,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869314" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "B874248E09856AC1D036D56328E0D2AD",
+                  "linkedId": "B874248E09856AC1D036D56328E0D2AD",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "111601", "name": "Harrogate T.", "position": "1" },
+                      { "id": "1039", "name": "Rochdale", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.67, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.99, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.63, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.41, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.47, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.75, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.43, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 791,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869306" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "4D00C2095A8523EF0730C1E51E2E0378",
+                  "linkedId": "4D00C2095A8523EF0730C1E51E2E0378",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1041", "name": "Scunthorpe Utd.", "position": "1" },
+                      { "id": "1018", "name": "Swindon T.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.02, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.65, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.67, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.41, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.44, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.85, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.0, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.34, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 789,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869316" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "69D35E79E7A54E51D0B1032CE47C7855",
+                  "linkedId": "69D35E79E7A54E51D0B1032CE47C7855",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1010", "name": "Northampton T.", "position": "1" },
+                      { "id": "1014", "name": "Port Vale", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.99, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.67, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.37, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.81, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.11, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.25, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 788,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869310" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "739C16FAA5FCEF963DC9784CA160E5B7",
+                  "linkedId": "739C16FAA5FCEF963DC9784CA160E5B7",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "75063", "name": "Stevenage", "position": "1" },
+                      { "id": "138633", "name": "Barrow", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.13, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.58, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.4, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.42, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.72, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.25, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 2.95, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.1, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 789,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869318" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "FBCB00EBD9531826EE7A22F97A1DFFD2",
+                  "linkedId": "FBCB00EBD9531826EE7A22F97A1DFFD2",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1027", "name": "Exeter City", "position": "1" },
+                      { "id": "977", "name": "Bradford City", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.06, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.62, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.38, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.77, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.16, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.15, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 780,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869302" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "7C856FEB7BC91196C34F1791DC3A3074",
+                  "linkedId": "7C856FEB7BC91196C34F1791DC3A3074",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1019", "name": "Tranmere Rovers", "position": "1" },
+                      { "id": "994", "name": "Walsall", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.1, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.59, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.34, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.39, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.87, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.03, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.45, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 759,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869320" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "16525BD7E4E9C9563BCEAE957722C066",
+                  "linkedId": "16525BD7E4E9C9563BCEAE957722C066",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1029", "name": "Hartlepool Utd.", "position": "1" },
+                      { "id": "85320", "name": "Crawley T.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.99, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.67, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.41, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.73, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.22, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.05, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.05, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 776,
+                  "visualizationInfo": { "betRadar": { "eventId": "27870928" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "100E507E973A6693CB18F4D6BE625DAA",
+                  "linkedId": "100E507E973A6693CB18F4D6BE625DAA",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "85303", "name": "Forest Green Rovers", "position": "1" },
+                      { "id": "163993", "name": "Sutton Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.77, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.86, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.29, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.34, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.08, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.83, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.4, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.8, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 761,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869304" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "770E01CB0A17145264EF70A3E0BC1FE5",
+                  "linkedId": "770E01CB0A17145264EF70A3E0BC1FE5",
+                  "fixture": {
+                    "startDate": "2021-08-07T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1024", "name": "Carlisle Utd.", "position": "1" },
+                      { "id": "1008", "name": "Colchester Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "70",
+                      "name": "League Two",
+                      "order": 50,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 2.02, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.65, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.37, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.4, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.81, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.11, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.1, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 3.25, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 132,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 793,
+                  "visualizationInfo": { "betRadar": { "eventId": "27869300" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 50
+        },
+        {
+          "id": "30217",
+          "name": "England National League",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-21T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "00AE7E8AA12EAF76853E00EA10D2D8F4",
+                  "linkedId": "00AE7E8AA12EAF76853E00EA10D2D8F4",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "205272", "name": "Dover Athl.", "position": "1" },
+                      { "id": "163987", "name": "Solihull Moors", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.81, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.81, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.35, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.35, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.93, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 1.97, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.35, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 3.35, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 779,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054654" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "4D5452E698E04A8EEE676C7846C4273D",
+                  "linkedId": "4D5452E698E04A8EEE676C7846C4273D",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1045", "name": "Torquay Utd.", "position": "1" },
+                      { "id": "104739", "name": "Altrincham", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.96, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.69, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 2.45, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.31, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.2, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 4.9, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.6, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 1.61, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 788,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054662" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "E28E2622F38799F3B62CC514089661EF",
+                  "linkedId": "E28E2622F38799F3B62CC514089661EF",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "52274551", "name": "Halifax", "position": "1" },
+                      { "id": "138642", "name": "Maidenhead Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.96, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.69, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 2.18, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.35, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.25, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 4.2, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.3, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 1.76, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 796,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054656" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "2369F839A2E0D4285C999854BF8A8B4A",
+                  "linkedId": "2369F839A2E0D4285C999854BF8A8B4A",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "138644", "name": "Kings Lynn T.", "position": "1" },
+                      { "id": "1043", "name": "Southend Utd.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.98, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.67, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.34, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.34, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.96, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 1.93, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.4, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 3.4, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 789,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054658" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "11F663EEE0CDCFDB9BC85C04CAD19F37",
+                  "linkedId": "11F663EEE0CDCFDB9BC85C04CAD19F37",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "215980", "name": "Wealdstone", "position": "1" },
+                      { "id": "85300", "name": "Woking", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.9, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.73, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.7, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.37, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.47, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.8, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.25, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.29, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 787,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054664" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "DF7BB47C156193785DF12FDBFAA47B4F",
+                  "linkedId": "DF7BB47C156193785DF12FDBFAA47B4F",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "138637", "name": "Bromley", "position": "1" },
+                      { "id": "983", "name": "Grimsby T.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.81, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.81, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.5, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.65, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.38, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.2, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.65, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 130,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 778,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054652" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "399B7836D38D214DE5C87C3811BE6D9B",
+                  "linkedId": "399B7836D38D214DE5C87C3811BE6D9B",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "131183", "name": "Weymouth", "position": "1" },
+                      { "id": "85308", "name": "Boreham Wood", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.9, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.73, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.62, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.38, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.53, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.55, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.2, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.46, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 787,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054666" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "D2049FB5F1D3F62184A064D639F3216C",
+                  "linkedId": "D2049FB5F1D3F62184A064D639F3216C",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "52274550", "name": "Stockport", "position": "1" },
+                      { "id": "9231", "name": "Dagenham and Redbridge", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.91, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.73, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 2.28, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.32, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.24, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 4.3, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.5, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 1.69, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 797,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054660" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "878A1B12C6FBBD4242EDA8F04C5F854E",
+                  "linkedId": "878A1B12C6FBBD4242EDA8F04C5F854E",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "85298", "name": "Aldershot T.", "position": "1" },
+                      { "id": "1007", "name": "Chesterfield", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.98, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.67, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 1.43, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.36, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.77, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 2.17, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.3, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 2.95, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 785,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054648" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "34B9DD0721D014A563AE31236DBA0E07",
+                  "linkedId": "34B9DD0721D014A563AE31236DBA0E07",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "15467", "name": "Barnet", "position": "1" },
+                      { "id": "1011", "name": "Notts County", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 2.95, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.25, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 2.17, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.77, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.37, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 1.42, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.71, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.93, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 131,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 792,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054650" } }
+                },
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "908B071CA18E384086F63588D27FA5F5",
+                  "linkedId": "908B071CA18E384086F63588D27FA5F5",
+                  "fixture": {
+                    "startDate": "2021-08-21T14:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "1021", "name": "Wrexham", "position": "1" },
+                      { "id": "79439", "name": "Yeovil T.", "position": "2" }
+                    ],
+                    "league": {
+                      "id": "30217",
+                      "name": "England National League",
+                      "order": 62,
+                      "seasonOriented": false,
+                      "eventless": false,
+                      "locationName": "England",
+                      "locationId": "243",
+                      "locationOrder": 20
+                    }
+                  },
+                  "markets": [
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 1.96, "order": 1, "status": 1, "mostBalanced": true },
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.69, "order": 2, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "x2", "name": "X2", "odds": 2.45, "order": 2, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.31, "order": 3, "status": 1 },
+                        { "id": "1x", "name": "1X", "odds": 1.2, "order": 1, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "2", "name": "2", "odds": 4.9, "order": 3, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 3.6, "order": 2, "status": 1 },
+                        { "id": "1", "name": "1", "odds": 1.61, "order": 1, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 129,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 788,
+                  "visualizationInfo": { "betRadar": { "eventId": "28054668" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 62
+        },
+        {
+          "id": "279",
+          "name": "Community Shield",
+          "eventDateGroups": [
+            {
+              "date": "2021-08-07T00:00:00Z",
+              "events": [
+                {
+                  "isLive": false,
+                  "sportId": "1",
+                  "id": "85C2250A88A29A34640788E47A366EA5",
+                  "linkedId": "85C2250A88A29A34640788E47A366EA5",
+                  "fixture": {
+                    "startDate": "2021-08-07T16:00:00Z",
+                    "type": "standard",
+                    "participants": [
+                      { "id": "984", "name": "Man.City", "position": "1" },
+                      { "id": "13", "name": "Leicester", "position": "2" }
+                    ]
+                  },
+                  "markets": [
+                    {
+                      "marketId": "1",
+                      "bl": 0,
+                      "name": "1x2a",
+                      "picks": [
+                        { "id": "1", "name": "1", "odds": 1.56, "order": 1, "status": 1 },
+                        { "id": "x", "name": "x", "odds": 4.3, "order": 2, "status": 1 },
+                        { "id": "2", "name": "2", "odds": 5.4, "order": 3, "status": 1 }
+                      ],
+                      "order": 1,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "10",
+                      "bl": 0,
+                      "name": "Double chance",
+                      "picks": [
+                        { "id": "1x", "name": "1X", "odds": 1.2, "order": 1, "status": 1 },
+                        { "id": "12", "name": "12", "odds": 1.27, "order": 3, "status": 1 },
+                        { "id": "x2", "name": "X2", "odds": 2.65, "order": 2, "status": 1 }
+                      ],
+                      "order": 3,
+                      "isValid": true
+                    },
+                    {
+                      "marketId": "18",
+                      "bl": 0,
+                      "name": "Total",
+                      "picks": [
+                        { "id": "over", "name": "Over", "baseLine": "2.5", "odds": 1.65, "order": 2, "status": 1, "mostBalanced": true },
+                        { "id": "under", "name": "Under", "baseLine": "2.5", "odds": 2.19, "order": 1, "status": 1, "mostBalanced": true }
+                      ],
+                      "order": 5,
+                      "isValid": true
+                    }
+                  ],
+                  "topLeagues": [],
+                  "marketsTotal": 104,
+                  "isHighlighted": false,
+                  "willBeLive": false,
+                  "picksTotal": 684,
+                  "visualizationInfo": { "betRadar": { "eventId": "27623858" } }
+                }
+              ]
+            }
+          ],
+          "eventless": false,
+          "seasonOriented": false,
+          "order": 4900
+        }
+      ],
+      "order": 20
+    }
+  ],
+  "sport": { "id": "1", "order": 12, "name": "Football", "seasonal": false },
+  "league": {
+    "id": "30048",
+    "name": "England Championship",
+    "order": 21,
+    "seasonOriented": false,
+    "eventless": false,
+    "locationName": "England",
+    "locationId": "243",
+    "locationOrder": 20
+  }
+}
